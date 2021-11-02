@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bitnapper
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on OpenLibrary, OpenStreetmap and the Wikipedia Projects
+- 🌱 I’m currently learning elasticsearch and splunk
+- 💞️ I’m looking to collaborate on OpenLibrary, OpenStreetMap and the Wikipedia Projects
 - 📫 How to reach me ...
 
 <!---
